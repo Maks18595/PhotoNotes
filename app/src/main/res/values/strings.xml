@@ -1,0 +1,14 @@
+<resources>
+    <string name="todo">Add a note</string>
+    <string name="app_name" translatable="false">PhotoNotes</string>
+    <string name="note">Note</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="save">Save</string>
+    <string name="save_note">Save Note</string>
+    <string name="todos">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="note1">Note</string>
+    <string name="take_photo1">Take Photo</string>
+    <string name="save1">Save</string>
+    <string name="save_note1">Save Note</string>
+</resources>
