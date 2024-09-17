@@ -10,7 +10,7 @@ import com.google.gson.reflect.TypeToken
 import java.io.File
 import java.io.FileOutputStream
 import java.io.OutputStreamWriter
-import com.first.photonotes.NoteViewModel
+//import com.first.photonotes.NoteViewModel
 
 class NoteViewModel(application: Application) : AndroidViewModel(application) {
     private val notesFile = File(application.filesDir, FILE_NAME)
